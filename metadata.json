@@ -1,0 +1,6 @@
+{
+  "name": "Administrative Training Institute Sikkim Portal",
+  "description": "Training and registration portal for the Administrative Training Institute (ATI), Government of Sikkim, enabling civil servants and state officials to browse courses, view details and express interest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
